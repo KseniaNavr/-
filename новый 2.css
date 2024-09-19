@@ -1,0 +1,53 @@
+
+		html {
+			padding: 30px;
+			background-color: #E5F4C3;
+			background-image: url(bg_page2.png)
+		}
+		body{
+			padding: 40px;
+			background: url(bg_page.png) repeat-x;
+			background-color: #CFE994;
+			margin: 0 auto; /*выравнивание элемента по центру родителя*/
+			width: 80%; /*размер в процентах от всего размера родительского элемента*/
+			border-radius: 10px; /*скругление углов*/
+			box-shadow: 10px 10px 20px rgba(0,0,0,0.5) /*тень от элемента с параметрами - 
+			положения, размытия и цвета*/
+		}
+		p {
+			padding: 20px;
+			color: maroon;
+			font-size: 15px;
+			font-family: "Pacifico", cursive;
+			line-height: 150%;
+			margin-left: 60px;
+		}
+		h2 {
+			font-family: "Playfair Display", serif;
+			color: #A28255;
+			font-size: 3.2em;
+			border-bottom: 2px black solid;
+			padding: 0 0 10px 60px;
+			margin: 0;
+			background: url(head-icon.png) no-repeat 18px 27px;
+		}
+		.intro {
+			font-family: "Pacifico", cursive;
+			color: maroon;
+			font-size: 1.2em;
+			margin-left: 0;
+			margin-bottom: 25px;
+		}
+		h1 {
+			font-family: "Playfair Display", serif;
+			text-align: center;
+			color: maroon;
+			font-size: 3.2em;
+		}
+		h1.intro {
+			font-size: 3.2em;
+
+		}
+		#podr {
+			color: white;
+		}
