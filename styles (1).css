@@ -36,22 +36,22 @@ table {
 	width: 70%;
 }
 .sidebar {
-	margin-left: 75%;
+	margin-left: 80%;
 	padding: 15px;
-	background: #E9F5FE;
+	background: #E2E2E5;
 }
 body {
-	color: #B1967C;
-	 font-family: "Pacifico", cursive;
-	 padding-top: 115px;
-	 background: #CDE6FF url(bg_body.png) repeat-x;
+	color: #504995;
+	 font-family: "Caveat", cursive;
+	 padding-top: 155px;
+	 background: #EFEFF2 url(friends1.jpg) repeat-x;
 	 max-width: 800px;
 	 margin: 0 auto;
 	
 }
 h1 {
 	font-size: 3em;
-	font-family: "Arial Black" , Arial, sans-serif;
+	font-family: "Caveat", sans-serif;
 	margin-bottom: 15px
 }
  h2{
@@ -61,23 +61,24 @@ h1 {
 	 
  }
  .main h2 {
-	 color: #E8A064;
+	 color: #504995;
 	 border-bottom: 2px white solid;
-	 background: url(bullet_flower.png) no-repeat;
+	 background: url(coffe12.png) no-repeat;
+	 background-size: 50px 30px;
 	 padding: 0 0 2px 80px;
  }
  .main p {
 	 color: #616161;
-	 font-family: "EB Garsmond", serif;
-	 font-size: 1.1em;
-	 line-height: 150%;
+	 font-family: "Caveat", cursive;
+	 font-size: 1.5em;
+	 line-height: 120%;
 	 margin-bottom: 10px;
-	 margin-left: 80px;
+	 margin-left: 90px;
  }
  p.intro {
-	 color: #6A94CC;
-	 font-family: Arial, Helevetica, sans-serif;
-	 font-size: 1.2em;
+	 color: #63D3C48;
+	 font-family: "Caveat", cursive;
+	 font-size: 1.5em;
 	 margin-left: 0;
 	 margin-bottom: 15px;
  }
